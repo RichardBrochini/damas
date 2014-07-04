@@ -1,0 +1,64 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.processed/src/menu
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Jogar.java
+file
+
+
+
+
+2009-03-03T17:48:12.875000Z
+7ee03ea147e062a3d46e42c0ef4d7e2e
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+Menu.java
+file
+
+
+
+
+2009-03-03T17:48:12.859375Z
+24ff75657063a188cc93ad9ffcc1b7aa
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+Borda.java
+file
+
+
+
+
+2008-08-23T04:54:54.000000Z
+2228522256054793728ce2fa2c0ab4b2
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+About.java
+file
+
+
+
+
+2009-03-03T17:48:12.875000Z
+1b3314b45acc942e60c4414c6d19fb11
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+

@@ -1,0 +1,44 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+form
+dir
+
+menu
+dir
+
+org
+dir
+
+Damas.class
+file
+
+
+
+
+2009-03-03T17:48:14.687500Z
+13432466893f4a9584cd6d11ca21c1ec
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+Conexao
+dir
+
+jogo
+dir
+

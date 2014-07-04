@@ -1,0 +1,29 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes/org/kxml2/wap/syncml
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+SyncML.class
+file
+
+
+
+
+2009-03-03T17:48:15.093750Z
+65614052e96d643273ccfc35fa8f01f5
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+

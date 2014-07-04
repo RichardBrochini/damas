@@ -1,0 +1,42 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes/org/kxml2/io
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+KXmlSerializer.class
+file
+
+
+
+
+2009-03-03T17:48:14.890625Z
+314343931fab4fa9dbd79cccab50f5e7
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+KXmlParser.class
+file
+
+
+
+
+2009-03-03T17:48:14.859375Z
+71aa60f54bd76e8796c93e2d1fe08eaf
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+

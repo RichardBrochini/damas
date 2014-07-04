@@ -1,0 +1,61 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/src/org/kxml2/wap
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+wml
+dir
+
+WbxmlSerializer.java
+file
+
+
+
+
+2008-11-27T03:38:42.000000Z
+152868d6e2ab79cb4dcf7bf8f78ec151
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+syncml
+dir
+
+WbxmlParser.java
+file
+
+
+
+
+2008-11-27T03:38:42.000000Z
+57d27ac67d6b0aabc4946457d002c64c
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+Wbxml.java
+file
+
+
+
+
+2008-11-27T03:38:42.000000Z
+85e972bde11401dddbb1d1dd69680dac
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+wv
+dir
+

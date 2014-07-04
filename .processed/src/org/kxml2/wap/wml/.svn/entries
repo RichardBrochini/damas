@@ -1,0 +1,28 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.processed/src/org/kxml2/wap/wml
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Wml.java
+file
+
+
+
+
+2009-03-03T17:48:12.718750Z
+0459ff825a37c07860bede76f860e4cc
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+

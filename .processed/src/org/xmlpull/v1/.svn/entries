@@ -1,0 +1,64 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.processed/src/org/xmlpull/v1
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+XmlPullParserFactory.java
+file
+
+
+
+
+2009-03-03T17:48:12.640625Z
+061672789f931d2a5325f5f934921f82
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+XmlPullParserException.java
+file
+
+
+
+
+2009-03-03T17:48:12.640625Z
+f723e9394f361c31cc5d5c125aa2099f
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+XmlPullParser.java
+file
+
+
+
+
+2009-03-03T17:48:12.687500Z
+58ff8efb9f8e612c9d51703a4b913eeb
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+XmlSerializer.java
+file
+
+
+
+
+2009-03-03T17:48:12.625000Z
+3ccf5e5da3c21881558bbbabbb82163b
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+

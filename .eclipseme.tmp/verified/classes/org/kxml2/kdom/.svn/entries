@@ -1,0 +1,55 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes/org/kxml2/kdom
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Document.class
+file
+
+
+
+
+2009-03-03T17:48:15.031250Z
+6cfcb07b579c33ca1571b49ae33c8926
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+Node.class
+file
+
+
+
+
+2009-03-03T17:48:15.046875Z
+67576564791714a7502d51e1a70be9a2
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+Element.class
+file
+
+
+
+
+2009-03-03T17:48:15.031250Z
+8cd5c4707faf697b1b3ce488884186af
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+

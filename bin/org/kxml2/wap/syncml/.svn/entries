@@ -1,0 +1,28 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/src/org/kxml2/wap/syncml
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+SyncML.java
+file
+
+
+
+
+2008-11-27T03:38:42.000000Z
+cd2da061ee3a9649768e5609dd00c511
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+

@@ -1,0 +1,68 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes/org/xmlpull/v1
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+XmlPullParserFactory.class
+file
+
+
+
+
+2009-03-03T17:48:15.125000Z
+2338cdb47b58a2bfccef288431e52a96
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+XmlPullParserException.class
+file
+
+
+
+
+2009-03-03T17:48:15.109375Z
+91ffe7f308bedacf0546ff55ef0152e7
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+XmlPullParser.class
+file
+
+
+
+
+2009-03-03T17:48:15.109375Z
+293943cf2f492e24dcf0882927425549
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+
+XmlSerializer.class
+file
+
+
+
+
+2009-03-03T17:48:15.125000Z
+cfd913971ed111febaf7f0094bf26e90
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+

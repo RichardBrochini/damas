@@ -1,0 +1,29 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.eclipseme.tmp/verified/classes/org/kxml2/wap/wml
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Wml.class
+file
+
+
+
+
+2009-03-03T17:48:15.093750Z
+c463109e8c1fe988210579b47ee59d1f
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+has-props
+

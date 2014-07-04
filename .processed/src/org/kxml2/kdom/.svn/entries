@@ -1,0 +1,52 @@
+8
+
+dir
+1
+svn://svn.nuclearmidia.com.br/damas/.processed/src/org/kxml2/kdom
+svn://svn.nuclearmidia.com.br/damas
+
+
+
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+
+svn:special svn:externals svn:needs-lock
+
+Node.java
+file
+
+
+
+
+2009-03-03T17:48:12.796875Z
+48e0d2d2f1ea587ed4328a748d666a0c
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+Element.java
+file
+
+
+
+
+2009-03-03T17:48:12.796875Z
+1876e4212d157d3337bd4873ab2e2d88
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
+Document.java
+file
+
+
+
+
+2009-03-03T17:48:12.812500Z
+426d21714fc1a93a9cd16e3036a55908
+2009-03-17T20:54:17.252701Z
+1
+tecnomancher
+
